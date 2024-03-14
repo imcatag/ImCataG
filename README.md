@@ -1,4 +1,7 @@
-### Hi there 👋
+### yo. i'm catag.
+there's a good chance i'm listening to music and working on something tetris related right now.
+
+check out the repos below. or don't.
 
 <!--
 **ImCataG/ImCataG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
