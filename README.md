@@ -1,5 +1,5 @@
 ### yo. i'm catag.
-there's a good chance i'm listening to music and working on something tetris related right now.
+there's a good chance i'm listening to music and editing some yaml file right now.
 
 check out the repos below. or don't.
 
